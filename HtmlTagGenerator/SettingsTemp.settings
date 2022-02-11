@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HtmlTagGenerator" GeneratedClassName="SettingsTemp">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPathForSaveText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\freelancing\002 Add HTML, images and YouTube videos to articles\source\04 source and Images</Value>
+    </Setting>
+    <Setting Name="HeadingsToIgnore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conclusion,final thoughts,final verdict,Our Recommendation</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
